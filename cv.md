@@ -1,5 +1,5 @@
 Name:**Kanstantsin Vensko**;
-Contact information: phone number- +375291010410, email - vkmdhk@gmail.com;
+<p>Contact information: phone number- +375291010410, email - vkmdhk@gmail.com;<p>
 Junior dev with no experience;
 Education: Belarusian State Medical University;
-English level: B1.
+<b>English level: B1.<b>
